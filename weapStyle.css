@@ -1,0 +1,14 @@
+/**
+ * Youtube (Clever Programmer): JavaScript Tutorial for Beginners - Full Course in 12 Hours (2022)
+ * 
+ * CHAPTER 14 -- Advance Weather App
+ */
+ #city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+  
+.banner {
+    color: #FFD23F;
+    font-family: sans-serif;
+}
